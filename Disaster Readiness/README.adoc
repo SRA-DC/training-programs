@@ -8,17 +8,18 @@ Students should come out of this course with enough knowledge to research and pl
 == Syllabus
 
 1. General Rules of Readiness
-2. Planning and Practice
-3. Common Supplies
-4. Specialized Supplies
-5. Natural Disasters
-6. Political Incidents
-7. A Community Perspective
-8. Starter Checklists
+2. Common Supplies
+3. Specialized Supplies
+4. Natural Disasters
+5. Political Incidents
+6. A Community Perspective
+7. Starter Checklists
+8. Planning and Practice
 
 == Additional Resources
 * https://www.fema.gov/preparedness-checklists-toolkits[FEMA Index]
 * https://www.fema.gov/media-library/assets/documents/7877[FEMA Citizen's Guide]
+* https://training.fema.gov/nims/[FEMA National Incident Management System]
 * https://ready.gov
 * https://www.aap.org/en-us/advocacy-and-policy/aap-health-initiatives/Children-and-Disasters/Pages/default.aspx[American Association of Pediatrics Guide]
 * https://www.aspca.org/pet-care/general-pet-care/disaster-preparedness[ASPCA Pet Guide]

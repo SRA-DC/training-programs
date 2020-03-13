@@ -1,2 +1,14 @@
 [id="rules-of-readiness{context}"]
 = Rules of Readiness
+
+== Rule 1: Know Your Risks
+The first step in preparing for disasters is to find out what disasters could affect you. What kinds of natural disasters are likely to strike where you live? How often and how critically? What is the political situation? These are some of the questions to consider during your research.
+
+== Rule 2: Develop a Plan
+Once you know _what_ you are preparing for, you can plan the _how_. Sit down with your family, your comrades, your rooomates, your community, and plan. Decide what you will stock up on, who will take what role, what skills you could learn to help. 
+
+== Rule 3: Prepare
+With a plan in hand, begin to build up your supplies, maps, and storage area. Prepare your storage area, your packs, your shelter and evacuation plans.
+
+== Rule 4: Practice
+No matter how detailed your plan, it has little chance of surviving a disaster unless you practice. Set a time with your comrades, practice the skills, go over the evacuation routes, check expiration dates and supply levels, and keep it fresh in your mind.
