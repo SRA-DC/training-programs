@@ -1,2 +1,22 @@
 [id="shelter-vs-evacuation{context}"]
 = Sheltering in Place Versus Evacuation
+One of the most important decisions in any disaster scenario is whether to stay put or leave. Nine times out of ten, the correct answer is stay put, but for that ten percent of the time you need to leave, being ready for it is a must.
+
+== Evaluating a Disaster
+When evaluating whether to stay or go, there are some basic questions you must ask.
+* Is the disaster localized to my area?
+* Is evacuation possible later?
+* Has an evacuation been ordered or recommended?
+* Do I have a place to go?
+
+=== Disaster Location
+If you live in the path of likely flooding, say in a hurricane on barrier islands, evacuation may be a better option. If the disaster in question is a pandemic, then it is or will be everywhere and travelling only increases the risk of contraction.
+
+=== Evacuating Later
+Sometimes the best option is to wait and see. If you have the supplies and there is still the possiblity of evacuation later, it is often a good idea to avoid the initial panic and rush and shelter in place. If, however, it is now or never, then you would calmly follow your evacuation plan and leave.
+
+=== Official Evacuations
+Once an evacuation is ordered by some level of government, it is probably time to go. Execute your evacuation plan and don't be tempted to take along extra things that you do not need. Official evacuations usually involve government transport and limits to how much each individual can bring. You can replace things, you cannot replace people.
+
+=== A Place to Go
+This one is very important and _must_ be part of your evacuation plan. Evacuating with nowhere to go puts you at greater risk than sheltering in place. You and your comrades and family do not want to be stuck roughing it for potentially weeks or even months. Build connections with comrades and family around the region and country, stash supplies for each other, and have a plan for who becomes the rally point in which circumstances. 

@@ -1,2 +1,9 @@
 [id="natural-disasters{context}"]
 = Natural Disasters
+We are not going to cover every type of natural disaster here, the goal is to point you in the right direction to learn about your own risks. Natural disasers include anything from hurricanes to blizzards to pandemics. The level of preparation and the responses possible vary greatly by the disaster, your own resources, and where you live.
+
+== Weather
+Inclimate weather is, as a category, the one most likely to lead to evacuation. Powerful hurricanes often lead to mandatory evacuation of barrier islands and coastal areas, power outages from blizzads might mean that evacuation is safer until electricity is restored, and so on. Despite this possibility, most people will still shelter in place. This is where supplies like blankets, precooked food, and portable cooking and water filtration equipment come in handy. Staying comfortable and fed is quite possible with some preparation, even with power and water outages.
+
+== Pandemics
+Pandemics are a special case, where sheltering in place is the _only_ option. Self quarantine as early as possible during a pandemic, and avoid the panic buying common in capitalist nations buy having a steady stock of necessities on hand at all times. Work with neighbors, comrades, and family to arrange delivery to more at risk people, often the elderly or immuno compromised. The best cure is to avoid infection, and if you are sick, to not spread it.
